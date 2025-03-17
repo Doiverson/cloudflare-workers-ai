@@ -2,6 +2,7 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "cloudflare-ai",
   "main": "src/index.ts",
+  "account_id": "023e7205d5443e8d0c48e1c0409e3337",
   "minify": true,
   "compatibility_date": "2025-03-17",
   "compatibility_flags": [
