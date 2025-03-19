@@ -6,6 +6,16 @@ Enhanced Security: Employs AI-powered threat detection to protect your site from
 Performance Insights: Provides data-driven recommendations to improve efficiency and scalability.
 By integrating Cloudflare AI, your application can achieve superior load times and robust protection against cyber threats.
 
+## AI Model
+
+This project utilizes the **[@cf/meta/llama-3.1-8b-instruct](https://developers.cloudflare.com/workers-ai/models/llama-3.1-8b-instruct/)** model provided by Cloudflare. Some key features of this model include:
+
+- **Instruction-Focused:** Fine-tuned to follow user instructions effectively, making it ideal for interactive AI applications.
+- **Balanced Performance:** With 8 billion parameters, it offers a balance between deep learning capabilities and computational efficiency.
+- **Edge-Optimized:** Designed to operate seamlessly on Cloudflare's edge network, ensuring low latency and high performance.
+- **Versatile Applications:** Suitable for content generation, conversational AI, and more, providing accurate and contextually aware responses.
+
+
 # About Hono 🔥
 Hono is a lightweight, high-performance web framework designed for edge computing platforms like Cloudflare Workers. Its key features include:
 
